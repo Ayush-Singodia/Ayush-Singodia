@@ -11,17 +11,15 @@
 
 - 🌱 I’m currently learning **c/c++**
 
-- 👯 I’m looking to collaborate on **My self**
+- 👯 I’m looking to collaborate on **Dev oops and DSA**
 
 - 🤝 I’m looking for help with **learners**
-
-- 📝 I regularly write articles on [Note Regular but ya some time's on gfg](Note Regular but ya some time's on gfg)
 
 - 💬 Ask me about **Technologies**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-singodia-314955209**
 
-- ⚡ Fun fact **I think I'm Funny coz coding needs things like that**
+- ⚡ Fun fact **CODER'S == COFFE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
