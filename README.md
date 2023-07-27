@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sainiayush00" target="blank"><img src="https://img.shields.io/twitter/follow/sainiayush00?logo=twitter&style=for-the-badge" alt="sainiayush00" /></a> </p>
 
-- 🔭 I’m currently working on **My Own Skills**
+- 🔭 I’m currently working on **My Own skills and try to make clone of every web application **
 
-- 🌱 I’m currently learning **c/c++**
+- 🌱 I’m currently learning **Web Development **
 
-- 👯 I’m looking to collaborate on **Dev oops and DSA**
+- 👯 I’m looking to collaborate on **DSA Problems**
 
 - 🤝 I’m looking for help with **learners**
 
-- 💬 Ask me about **Technologies**
+- 💬 Ask me about **Clones**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush-singodia-314955209**
 
