@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on -My skills<br>👯 I’m looking to collaborate on - Open Source Projects <br>🤝 I’m looking for help with - Dev Projects<br>🌱 I’m currently learning - Web Development <br>💬 Ask me about - New tech topics, Open Source <br>⚡ Fun fact - Coding is funny 
+🔭 I’m currently working on -My skills<br>👯 I’m looking to collaborate on - Open Source Projects <br>🤝 I’m looking for help with - Dev Projects<br>🌱  currently Working on - MERN Stack <br>💬 Ask me about - New tech topics, Open Source <br>⚡ Fun fact - Coding is funny 
 
 
 ## 🌐 Socials:
