@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ayushsaini11707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ePONkevsr3DcbCXGlhal3fID-a_1_qLv/view?usp=share_link](https://drive.google.com/file/d/1ePONkevsr3DcbCXGlhal3fID-a_1_qLv/view?usp=share_link)
+
 
 - ⚡ Fun fact **Coding is Really Fun**
 
