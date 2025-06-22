@@ -14,10 +14,7 @@
 - 👯 I’m looking to collaborate on **Mern Projects**
 
 - 🤝 I’m looking for help with **Web Technologies and latest frameworks**
-
-- 👨‍💻 All of my projects are available at [https://ayush-saini.vercel.app](https://ayush-saini.vercel.app)
-
-- 📝 I regularly write articles on [https://medium.com/@ayushsaini11707](https://medium.com/@ayushsaini11707)
+- 👨🏻‍💻 already delivered the 50+ live projects to the indian + UK clients
 
 - 💬 Ask me about **DSA , WEB-DEV**
 
